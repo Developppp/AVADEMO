@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVA_SERVER", "AVA_SERVER\AVA_SERVER.csproj", "{A5D4A0BC-3C6E-44EF-A38D-4A3CCDE0C793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D4A0BC-3C6E-44EF-A38D-4A3CCDE0C793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D4A0BC-3C6E-44EF-A38D-4A3CCDE0C793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D4A0BC-3C6E-44EF-A38D-4A3CCDE0C793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D4A0BC-3C6E-44EF-A38D-4A3CCDE0C793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06434FE9-694F-4B2C-9302-0A722C5143F3}
+	EndGlobalSection
+EndGlobal
